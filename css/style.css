@@ -291,6 +291,12 @@ body {
 
 #inputaddress {
   width: 4in;
+  display: inline;
+}
+
+#btnSearch {
+  display: inline;
+  bottom: 20px;
 }
 
 #not-yet {
