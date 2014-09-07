@@ -32,7 +32,7 @@ function checkAuth() {
 function GetResponse(resp,rawResp) {
   // clear any old fields
   document.getElementById("PollingPlace").style.display="block";
-  document.getElementById("PollingText").style.display="block";
+  document.getElementById("PollText").style.display="block";
   document.getElementById("ppName").innerText="";
   document.getElementById("ppLine1").innerText="";
   document.getElementById("ppLine2").innerText="";
