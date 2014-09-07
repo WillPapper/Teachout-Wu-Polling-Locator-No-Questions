@@ -36,7 +36,7 @@ function GetResponse(resp,rawResp) {
   document.getElementById("ppName").innerText="";
   document.getElementById("ppLine1").innerText="";
   document.getElementById("ppLine2").innerText="";
-  var q2=document.getElementById("not-yet");
+  var q2=document.getElementById("text");
   var em=document.getElementById("errorMessage");
   em.innerHTML="";
   if (!resp || resp.error) {
