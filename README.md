@@ -1,7 +1,9 @@
-Teachout-Wu-Polling-Locator
+Teachout-Wu-Polling-Locator-No-Questions
 ===========================
 
 Polling locator for the [Teachout-Wu](http://www.teachoutwu.com/) Campaign.
+
+Based on [Teachout-Wu-Polling-Locator](https://github.com/wpapper/Teachout-Wu-Polling-Locator), but does not contain any Yes/No questions.
 
 Built by [William Papper](http://papper.me/) and [David Nevin](http://dnevin.com/).
 
